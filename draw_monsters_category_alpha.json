@@ -1,0 +1,315 @@
+{
+	"categories": [{
+		"category_id": "66",
+		"category_name": "Vampires and Werewolfs",
+		"category_thumbnail": "66.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "2",
+			"anime_name": "Vampire Face",
+			"anime_step": 6
+		}, {
+			"anime_id": "3",
+			"anime_name": "Vampire's Skull",
+			"anime_step": 7
+		}, {
+			"anime_id": "4",
+			"anime_name": "Werewolf Claw",
+			"anime_step": 7
+		}, {
+			"anime_id": "5",
+			"anime_name": "Werewolf Face",
+			"anime_step": 7
+		}, {
+			"anime_id": "16",
+			"anime_name": "Werewolf and Moon",
+			"anime_step": 10
+		}, {
+			"anime_id": "6",
+			"anime_name": "William Uderworld: Evolution",
+			"anime_step": 9
+		}, {
+			"anime_id": "7",
+			"anime_name": "Lestat Interview With The Vampire",
+			"anime_step": 10
+		}, {
+			"anime_id": "1",
+			"anime_name": "Green Vampire",
+			"anime_step": 8
+		}, {
+			"anime_id": "9",
+			"anime_name": "Warwick LOL",
+			"anime_step": 9
+		}, {
+			"anime_id": "10",
+			"anime_name": "Halloween Vampire Teeth",
+			"anime_step": 6
+		}, {
+			"anime_id": "11",
+			"anime_name": "Vampire Bat",
+			"anime_step": 7
+		}, {
+			"anime_id": "12",
+			"anime_name": "Werewolf Easy",
+			"anime_step": 8
+		}, {
+			"anime_id": "13",
+			"anime_name": "Angry Werewolf",
+			"anime_step": 9
+		}, {
+			"anime_id": "14",
+			"anime_name": "Werewolf Head",
+			"anime_step": 6
+		}, {
+			"anime_id": "15",
+			"anime_name": "Vampire cake",
+			"anime_step": 6
+		}, {
+			"anime_id": "8",
+			"anime_name": "Draculaura Monster High",
+			"anime_step": 7
+		}]
+	}, {
+		"category_id": "65",
+		"category_name": "Zoombies and Undead",
+		"category_thumbnail": "65.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Zombie Girl",
+			"anime_step": 7
+		}, {
+			"anime_id": "2",
+			"anime_name": "Zombie Robot",
+			"anime_step": 10
+		}, {
+			"anime_id": "3",
+			"anime_name": "Frankenstein Face",
+			"anime_step": 7
+		}, {
+			"anime_id": "4",
+			"anime_name": "Zombie Arm",
+			"anime_step": 7
+		}, {
+			"anime_id": "5",
+			"anime_name": "Zombie Hand",
+			"anime_step": 7
+		}, {
+			"anime_id": "6",
+			"anime_name": "Mummy Face",
+			"anime_step": 8
+		}, {
+			"anime_id": "7",
+			"anime_name": "Pirat Skeleton",
+			"anime_step": 11
+		}, {
+			"anime_id": "8",
+			"anime_name": "Reaper Skeleton",
+			"anime_step": 10
+		}, {
+			"anime_id": "9",
+			"anime_name": "Scytheman",
+			"anime_step": 9
+		}, {
+			"anime_id": "10",
+			"anime_name": "Skeleton Face",
+			"anime_step": 7
+		}, {
+			"anime_id": "11",
+			"anime_name": "Skeleton Biker",
+			"anime_step": 7
+		}, {
+			"anime_id": "12",
+			"anime_name": "Little Ghost",
+			"anime_step": 7
+		}, {
+			"anime_id": "13",
+			"anime_name": "Ghost Rider",
+			"anime_step": 11
+		}, {
+			"anime_id": "14",
+			"anime_name": "Leach World of Warcraft",
+			"anime_step": 13
+		}, {
+			"anime_id": "15",
+			"anime_name": "Frankie Stein Monster High",
+			"anime_step": 22
+		}]
+	}, {
+		"category_id": "68",
+		"category_name": "Monsters and Beasts",
+		"category_thumbnail": "68.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Basilisk",
+			"anime_step": 11
+		}, {
+			"anime_id": "2",
+			"anime_name": "Chimera",
+			"anime_step": 10
+		}, {
+			"anime_id": "3",
+			"anime_name": "Centaur",
+			"anime_step": 12
+		}, {
+			"anime_id": "4",
+			"anime_name": "Cyclop",
+			"anime_step": 11
+		}, {
+			"anime_id": "5",
+			"anime_name": "Dwarf",
+			"anime_step": 11
+		}, {
+			"anime_id": "6",
+			"anime_name": "Elf",
+			"anime_step": 9
+		}, {
+			"anime_id": "7",
+			"anime_name": "Giant",
+			"anime_step": 12
+		}, {
+			"anime_id": "8",
+			"anime_name": "Iron Golem",
+			"anime_step": 11
+		}, {
+			"anime_id": "9",
+			"anime_name": "Goblin",
+			"anime_step": 10
+		}, {
+			"anime_id": "10",
+			"anime_name": "Griffin",
+			"anime_step": 8
+		}, {
+			"anime_id": "11",
+			"anime_name": "Harpy",
+			"anime_step": 10
+		}, {
+			"anime_id": "12",
+			"anime_name": "Hydra",
+			"anime_step": 10
+		}, {
+			"anime_id": "13",
+			"anime_name": "Imp",
+			"anime_step": 11
+		}, {
+			"anime_id": "14",
+			"anime_name": "Kraken",
+			"anime_step": 7
+		}, {
+			"anime_id": "15",
+			"anime_name": "Lycan",
+			"anime_step": 10
+		}, {
+			"anime_id": "16",
+			"anime_name": "Mermaid",
+			"anime_step": 8
+		}, {
+			"anime_id": "17",
+			"anime_name": "Minotaur",
+			"anime_step": 11
+		}, {
+			"anime_id": "18",
+			"anime_name": "Orc",
+			"anime_step": 13
+		}, {
+			"anime_id": "19",
+			"anime_name": "Phoenix",
+			"anime_step": 8
+		}, {
+			"anime_id": "20",
+			"anime_name": "Pegasus",
+			"anime_step": 9
+		}, {
+			"anime_id": "21",
+			"anime_name": "Salamander",
+			"anime_step": 9
+		}, {
+			"anime_id": "22",
+			"anime_name": "Unicorn",
+			"anime_step": 9
+		}, {
+			"anime_id": "23",
+			"anime_name": "Vampire",
+			"anime_step": 10
+		}, {
+			"anime_id": "24",
+			"anime_name": "Yeti",
+			"anime_step": 7
+		}]
+	}, {
+		"category_id": "58",
+		"category_name": "Dragons and Beasts",
+		"category_thumbnail": "58.png",
+		"file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+		"file_extension": "png",
+		"animes": [{
+			"anime_id": "1",
+			"anime_name": "Dragonite",
+			"anime_step": 8
+		}, {
+			"anime_id": "2",
+			"anime_name": "Salamence",
+			"anime_step": 8
+		}, {
+			"anime_id": "3",
+			"anime_name": "Dragon Age Dragon",
+			"anime_step": 7
+		}, {
+			"anime_id": "4",
+			"anime_name": "Dragon Ball Z Dragon",
+			"anime_step": 10
+		}, {
+			"anime_id": "5",
+			"anime_name": "Whispering Death Dragon",
+			"anime_step": 9
+		}, {
+			"anime_id": "6",
+			"anime_name": "Skrill Dragon",
+			"anime_step": 8
+		}, {
+			"anime_id": "7",
+			"anime_name": "Long Wang Chinese Dragon",
+			"anime_step": 7
+		}, {
+			"anime_id": "8",
+			"anime_name": "Spyro Dragon",
+			"anime_step": 9
+		}, {
+			"anime_id": "9",
+			"anime_name": "Sephira Dragon",
+			"anime_step": 5
+		}, {
+			"anime_id": "10",
+			"anime_name": "Mushu Dragon",
+			"anime_step": 8
+		}, {
+			"anime_id": "11",
+			"anime_name": "Fire Dragon",
+			"anime_step": 9
+		}, {
+			"anime_id": "12",
+			"anime_name": "Water Dragon",
+			"anime_step": 9
+		}, {
+			"anime_id": "13",
+			"anime_name": "Earth Dragon",
+			"anime_step": 8
+		}, {
+			"anime_id": "14",
+			"anime_name": "Air Dragon",
+			"anime_step": 9
+		}, {
+			"anime_id": "15",
+			"anime_name": "Electric Dragon",
+			"anime_step": 9
+		}, {
+			"anime_id": "16",
+			"anime_name": "Zombie Dragon",
+			"anime_step": 10
+		}]
+	}]
+}

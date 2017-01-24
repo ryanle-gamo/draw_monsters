@@ -4,7 +4,7 @@
     "is_admob":true,
     "version":"ALPHA",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/draw_monsters/master/draw_monsters_category.json",
-    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/draw_monsters/master/draw_monsters_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/draw_monsters/master/draw_monsters_category_alpha.json",
     "admob_banner_id":"ca-app-pub-4322965078780162/1935290335",
     "admob_interstitial_id":"ca-app-pub-4322965078780162/4888756736",
     "itune_url":"http://itunes.apple.com/app/xxx"
